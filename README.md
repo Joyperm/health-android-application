@@ -13,7 +13,7 @@
 
 - **OpenWeatherMap API**: This API provides access to weather data for various locations around the world.
 
-## Features Completed
+## Features
 
 - **Water Intake**: Allows users to set daily water intake goals and log their consumption throughout the day.
   
@@ -21,3 +21,13 @@
   - Due to the inability to test with a real sensor on a physical Android device, I’ve simulated through hard-coded values, and the sensor-related methods are not fully implemented.
 
 - **Weather**: Provides recommendations on whether it is a good day to exercise outdoors based on the current weather conditions.
+
+## Example
+![image](https://github.com/user-attachments/assets/9366e2c6-2f2a-4e07-9aab-cc3eb26b7128)
+![image](https://github.com/user-attachments/assets/32f45383-01ac-4b98-8ddc-d1cfd5a6d15e)
+![image](https://github.com/user-attachments/assets/8c44d213-d3bf-4e42-91c9-562871593aff)
+![image](https://github.com/user-attachments/assets/af065706-d96d-46c8-b782-6963d7bf255b)
+![image](https://github.com/user-attachments/assets/43b2f228-38f1-4554-ab91-2c2f26995023)
+![image](https://github.com/user-attachments/assets/d1b0b1fc-8394-4437-ae98-638989810202)
+
+https://vm.tiktok.com/ZMr7XbUuP/
