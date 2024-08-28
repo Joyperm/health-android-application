@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HealthGuardianVer1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/lavender</item>
+        <item name="colorPrimaryVariant">@color/lavender</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSurface">@android:color/white</item>
+        <item name="colorOnSurface">@android:color/black</item>
+    </style>
+
+    <style name="Theme.HealthGuardianVer1" parent="Base.Theme.HealthGuardianVer1" />
+
+    <style name="Theme.HealthGuardianVer1.NoActionBar">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.HealthGuardianVer1.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar" />
+
+    <style name="Theme.HealthGuardianVer1.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Light" />
+</resources>
